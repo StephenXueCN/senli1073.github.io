@@ -2,15 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Hi, I am Xue Zhiheng, a undergraduate student from University of Science and Technology of China, majoring in Atomic Molecular and Optical physics.
 
 #### Email
-sli[at]cumt.edu.cn
+stephen_xue[at]mail.ustc.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Physics, University of Science and Technology of China, 2021—2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Atomic physics, Cold Atom, Atom and Molecule Traps
 
+#### Hobbies
+Movies, Anime, Photography, Traditional literature
