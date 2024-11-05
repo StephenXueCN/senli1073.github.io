@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+-University of Science and Technology of China and Optics Valley Scholarship (Top 1\%) 2022
 
-- Freshman Academic Scholarship, 2022.
+-Outstanding Student Scholarship Grade 1 2023 (Top 5\%) 2023
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+-National Fundamental Science Talent Scholarship (Top 5\%) 2021,2023,2024
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+-Outstanding Freshman Scholarship (Top 10\%) 2021
